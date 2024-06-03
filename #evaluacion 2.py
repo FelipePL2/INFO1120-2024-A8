@@ -1,2 +1,2 @@
 #evaluacion 2
-print("hola")
+print("adios")
