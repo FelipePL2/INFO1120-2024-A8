@@ -14,4 +14,4 @@ if os.name == 'nt':
 elif os.name == 'posix':
     os.system(f'open {filename}')
 else:
-    print(f"No se puede abrir automáticamente el archivo en este sistema operativo: {os.name}")
+    print(f"No se puede abrir el archivo en este sistema operativo: {os.name}")
